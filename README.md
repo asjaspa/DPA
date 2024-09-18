@@ -1,7 +1,7 @@
 # DPA - digital pantry assistant
 JIRA https://asjaspa.atlassian.net/jira/software/projects/DPA/boards/2
 
-CONFLUENCE https://asjaspa.atlassian.net/wiki/spaces/TEAM/overview
+CONFLUENCE https://asjaspa.atlassian.net/wiki/x/AoAO
 
 MIRO https://miro.com/app/board/uXjVKykU1q0=/
 
