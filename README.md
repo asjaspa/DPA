@@ -9,3 +9,6 @@ FIGMA https://www.figma.com/files/team/1388628072847175664/project/249731916/Dig
 
 GITHUB https://github.com/asjaspa/DPA
 
+GOOGLE DRIVE https://drive.google.com/drive/folders/0AOu-JQgSk7-ZUk9PVA
+
+DISCORD THREAD https://discord.com/channels/621300560481615892/1197179730089226270
